@@ -1,0 +1,25 @@
+{
+  "name": "VexarTheme",
+  "displayName": "Vexar Theme",
+  "description": "A dark theme made by Vexo",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo-name.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vexar Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vexar Theme-color-theme.json"
+      }
+    ]
+  }
+}
